@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1491171570 source:c:\users\asus\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1504758544 source:e:\tp1cal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mi_libreria.h"
+
+1504758544 e:\tp1cal\mi_libreria.h
+	<stdio.h>
+	<stdlib.h>
+
+1504758544 source:e:\tp1cal\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Mi_libreria.h"
+
+1523302361 source:c:\users\asus\desktop\tp1cal\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mi_libreria.h"
+
+1523300984 c:\users\asus\desktop\tp1cal\mi_libreria.h
+	<stdio.h>
+	<stdlib.h>
+
+1523302560 source:c:\users\asus\desktop\tp1cal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mi_libreria.h"
+

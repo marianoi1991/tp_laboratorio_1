@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1508700287 source:c:\users\asus\desktop\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1508289392 c:\users\asus\desktop\tp_2_cascara\tp_2_cascara\funciones.h
+
+1508698902 source:c:\users\asus\desktop\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1494259596 source:e:\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494259670 e:\tp_2_cascara\tp_2_cascara\funciones.h
+
+1494266756 source:e:\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1494283010 source:f:\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494283010 f:\tp_2_cascara\tp_2_cascara\funciones.h
+
+1494283010 source:f:\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1508700287 source:c:\users\asus\desktop\tp_2_cascara\tp_2_terminado\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1508289392 c:\users\asus\desktop\tp_2_cascara\tp_2_terminado\funciones.h
+
+1508700364 source:c:\users\asus\desktop\tp_2_cascara\tp_2_terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525552295 source:c:\users\asus\desktop\tp_2_2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525803801 c:\users\asus\desktop\tp_2_2018\funciones.h
+
+1525803586 source:c:\users\asus\desktop\tp_2_2018\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+

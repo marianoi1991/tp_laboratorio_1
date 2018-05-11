@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1525998541 source:c:\users\alumno\desktop\parcial_1_labo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"libFunciones.h"
+	"publicaciones.h"
+
+1525997708 c:\users\alumno\desktop\parcial_1_labo\cliente.h
+	"publicaciones.h"
+
+1525999090 c:\users\alumno\desktop\parcial_1_labo\libfunciones.h
+
+1525999128 c:\users\alumno\desktop\parcial_1_labo\publicaciones.h
+
+1525999097 source:c:\users\alumno\desktop\parcial_1_labo\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"libFunciones.h"
+	"publicaciones.h"
+
+1525992178 source:c:\users\alumno\desktop\parcial_1_labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"libFunciones.h"
+	"publicaciones.h"
+
+1525999197 source:c:\users\alumno\desktop\parcial_1_labo\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"libFunciones.h"
+	"publicaciones.h"
+
